@@ -11,4 +11,4 @@ User can also delete the notes by click on delete button given in right of every
 4. Kotlin Extensions.
 5. Kotlin Coroutines.
 6. Architectural Components.
-7. Json Api COnverter.
+7. Json Api Converter.
